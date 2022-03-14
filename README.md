@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Andrew Herubin
+- 👀 I’m interested in all things software development
+- 🌱 I’m currently studying computer science at the University of North Texas
+- 📫 Email me at: andrewherubin@outlook.com
